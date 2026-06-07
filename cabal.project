@@ -1,0 +1,4 @@
+packages:
+  ./
+  ../pms-domain-model
+

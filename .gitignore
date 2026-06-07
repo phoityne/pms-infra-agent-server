@@ -1,0 +1,6 @@
+.vscode
+**/dist-newstyle
+**/dist-newstyle/**
+**/*~
+**/logs/**
+**/*.tmp
